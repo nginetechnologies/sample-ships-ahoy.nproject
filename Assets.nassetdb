@@ -1,998 +1,2176 @@
 {
-    "20fe4b8b-b683-aeef-d24e-3b52ea1da9d9": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerBody.001.scene.nasset/M_Textile-9.mesh.nasset"
-    },
-    "6fb0e75a-c65b-03a1-f5f9-1e7001b3eb47": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonRightBase.002.scene.nasset"
-    },
-    "00dd52a8-72a8-4931-f184-77ee624fc0ea": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipLight1.scene.nasset/M_Iron-4.mesh.nasset"
-    },
-    "64b6e55d-ebe9-0fcb-981b-7077fbba4cf5": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail_LG1.scene.nasset/M_Wood-4.mesh.nasset"
-    },
-    "4aeecd6c-d335-6616-0e92-695be0621766": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipLight1.scene.nasset"
-    },
-    "05cda698-38d4-5021-75a9-92bc09b311bc": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Sword1.001.scene.nasset/M_Textile-8.mesh.nasset"
-    },
-    "87f9cd98-c7bd-6021-b297-2438d032c8a4": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "0096d1e2-1383-fea4-019f-5893d22973d5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Bottle1.scene.nasset/SM_Bottle1.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Ship Light.mesh.nasset/Ship Light.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "7dcc7e1c-2de2-6e8e-8d6d-216d74995667",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "16f3446e-d6c3-da30-c19a-6bc1079c1ab7",
+            "1c7054b6-440a-8553-9dd5-ed89aac0d03b",
+            "b6965051-9fc0-20db-80be-6f0b4fa89d7e",
+            "ea0f8ec4-e85d-ee4e-2849-bc8f174a1172",
+            "89fd1e12-c611-1324-00f1-3e5c79d77699",
+            "6d4520d8-8590-63fa-9d71-6781944134ca"
+        ]
     },
-    "b66404b1-05d8-ef02-bf57-c4c03fe21b09": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewBody.001.scene.nasset/M_Default-3.mesh.nasset"
-    },
-    "1d5f9680-20ed-b79a-bdf2-e1212cbbcb44": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerLegLeft.001.scene.nasset/M_Wood-26.mesh.nasset"
-    },
-    "7f67bc47-597c-68c8-ae81-0382ecb1a09f": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonFrontBase.002.scene.nasset"
-    },
-    "4f88cd19-86c9-6a60-bf7a-a762e96a14f7": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainLegLeft.001.scene.nasset/M_Wood-36.mesh.nasset"
-    },
-    "eb070ba8-ae6e-7a8e-9089-35cdbcafc128": {
+    "00e69be7-b4fa-e2f7-7f8c-b79bfd9247b9": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_textileRed.mtli.nasset"
+        "path": "Assets/Source/Material Instances/Leaves.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "f7018582-a59d-8cb3-89d0-103333829e3d": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail_LG3.scene.nasset"
+    "0254c53b-c9df-fb1d-141a-62f7a31c1147": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Treasure 1.mesh.nasset/Treasure 1 Iron Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "aa5df9bd-7766-daee-ae54-6a28a4dc1636",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "031d66ee-2159-09ee-7445-15f3b4a184d2": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainBody.001.scene.nasset"
+    "03208b06-5ffd-0cca-1548-ac343d4f3810": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Corner Supports.mesh.nasset/Docks Corner Supports.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "d2e64bd1-b39c-73f1-aa28-e0bf4920ae7b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "a88ea1c5-ac78-f128-0025-ab2bab1712ac"
+        ]
     },
-    "0a77c355-7ea6-bd41-d146-825f5104f05a": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Shovel1.scene.nasset/M_Stone-4.mesh.nasset"
+    "04735b2e-fa45-9a4f-e218-0bc3f1a68f1c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Cliff 1.mesh.nasset/Cliff 1 Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ca5aaf0e-ba83-da07-67ce-7b326e7c3995",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "51eadc4a-18bc-8f42-327f-99354975407f": {
+    "0615b466-bb73-20c8-a6b2-c343e452186f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Cannon 1.mesh.nasset/Cannon 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b6965051-9fc0-20db-80be-6f0b4fa89d7e",
+            "4784d4ef-053e-0b93-f181-f4ce7cf7853e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "6186f4e8-eacf-979f-8119-2eec380644a9"
+        ]
+    },
+    "066807b4-0eb3-cc04-c39a-4d8d97bd537d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfish 2.mesh.nasset/Starfish 2 Starfish.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b7de2bb2-ce43-378e-c308-c6015f9324ac",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "06d4e22d-479b-8f2f-497d-2b68ab98068b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Shipwreck.mesh.nasset/Shipwreck Wood 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "07441d47-7cd7-6538-39a1-d356d3600284": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Palm Tree 3.mesh.nasset/Palm Tree 3 Oak Leaves.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4c91d071-fa81-3b76-6432-7088099fa87c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "08372e0b-8726-c8ff-eed1-0a01d4c4396e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Palm Tree 1.mesh.nasset/Palm Tree 1 Coconut.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "72d6e549-9d91-622d-3bbb-4730953bc9b5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "096b0a1d-e925-1d4a-eefb-25584b81bc38": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Island Round.mesh.nasset/Island Round.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "645c5a64-9d51-e252-4d1c-00ef8a264d19",
+            "4301f29b-debb-19aa-c15c-a17613bf6b69",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0ab550d2-aaad-8161-2287-c2ae99376916": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Shell 1.mesh.nasset/Shell 1 Shell.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a5897f5c-b58c-d540-9ec2-1748f062e298",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0cac16bf-b15c-92e2-4141-f0c77e70acb6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Ship Dark.mesh.nasset/Ship Dark Wood 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0dff027f-4964-63d5-602c-33dcf0896c04": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 3.mesh.nasset/Starfishes 3 Shell Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "119f6411-e9e2-bfef-6300-67b8051f00ef",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0e6c49bf-692f-03e2-8259-7fbc799c9b3c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Grass Ground.mesh.nasset/Grass Ground Leaves.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "00e69be7-b4fa-e2f7-7f8c-b79bfd9247b9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "119f6411-e9e2-bfef-6300-67b8051f00ef": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Textile.mtli.nasset"
+        "path": "Assets/Source/Material Instances/Shell Dark.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "31494af9-6e59-4d37-6f96-68552001e488": {
+    "14723a8a-46cd-0528-c70c-d6817212ea75": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Island 2.mesh.nasset/Island 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "645c5a64-9d51-e252-4d1c-00ef8a264d19",
+            "bddf9260-025a-5033-1c86-9ca097250409",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "14b60e28-af6b-f6ed-5be8-5b3b3644311f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Straight Supports.mesh.nasset/Docks Straight Supports Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "151f063a-1d06-8dbe-b4a2-a6a1d04ff6f1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_textileBlue.mtli.nasset"
+        "path": "Assets/Source/Material Instances/Stone Wall.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "f56190f0-464d-89e6-34ab-8b908aa9d8e0": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainBody.001.scene.nasset/M_Default-4.mesh.nasset"
-    },
-    "d1c65905-4f60-030c-ad61-e26513c32546": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail_LG1.scene.nasset"
-    },
-    "270925a8-5511-f4c4-4ae2-ad79a88a25eb": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewLegLeft.001.scene.nasset/SM_crewLegLeft.001.scene.nasset"
-    },
-    "0fb607d4-df1c-037a-5bcc-bcc0bccb53c9": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Bottle_LG2.scene.nasset"
-    },
-    "7a3c1991-8b54-29b2-460f-6fceaefed3f8": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerHead.001.scene.nasset/M_Sand-7.mesh.nasset"
-    },
-    "f6bbc08b-65f7-5ef4-3008-9bc6a1df9dfa": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Palm_LG1.scene.nasset/M_Wood-12.mesh.nasset"
-    },
-    "6496a484-8e74-9ed6-936d-ecbc3fd5d0c7": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Palm_LG1.scene.nasset/SM_Palm_LG1.scene.nasset"
-    },
-    "3339e32a-0219-c3a9-8515-9660a8059291": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipDark1.scene.nasset/M_Iron-8.mesh.nasset"
-    },
-    "4988aea8-ae82-efaf-10bc-9eb758c55596": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipLight1.scene.nasset/M_Wood-14.mesh.nasset"
-    },
-    "5a8c8069-6bf5-649b-1eb5-c7461f5b10ad": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonFrontBase.003.scene.nasset/M_Iron-12.mesh.nasset"
-    },
-    "75d758a5-b7de-b71c-c7be-7311cbc43000": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Palm1.scene.nasset/SM_Palm1.scene.nasset"
-    },
-    "7f1589db-09e5-0517-8565-da1e62e304c1": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerArmRight.001.scene.nasset/M_Sand-6.mesh.nasset"
-    },
-    "af86dd4a-18ca-d1ac-b50b-bd87a3f0e67a": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonLeftBarrel.002.mesh.nasset"
-    },
-    "bd0db6a6-907b-cd99-386a-de5956b0b908": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_swordScimitar1.scene.nasset/M_Default-5.mesh.nasset"
-    },
-    "19112185-9908-6f9d-8856-7bff81663a15": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_chestBody1.scene.nasset/M_Stone.mesh.nasset"
-    },
-    "72e7438e-16c3-c542-9844-29e98c816573": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerBody.001.scene.nasset"
-    },
-    "7987f32e-264f-bbb1-bd70-1427336a59f7": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail_LG1.scene.nasset/SM_palmDetail_LG1.scene.nasset"
-    },
-    "3e6016c5-48db-8ae7-7512-770ef4148c6a": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerArmRight.001.scene.nasset/M_Textile-7.mesh.nasset"
-    },
-    "b5c47cf1-db96-e18f-e166-46d906e2c44c": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Bottle1.scene.nasset/M_Wood-8.mesh.nasset"
-    },
-    "ed6da9c0-cf1f-4516-9104-fb6ed11a7687": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_lightSails.001.scene.nasset/SM_lightSails.001.scene.nasset"
-    },
-    "0075b8d0-8e69-6608-dcf0-cabe12f34763": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_SteeringWheel.003.mesh.nasset"
-    },
-    "351e25f1-2566-e8d1-3b5c-15275b13c244": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainArmLeft.001.scene.nasset/M_Wood-32.mesh.nasset"
-    },
-    "5df1abcc-3974-c287-e61c-cdbb2f210af4": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewArmRight.001.mesh.nasset"
-    },
-    "8e13245d-14be-c873-5493-6e3e2a4a87ed": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainArmLeft.001.scene.nasset"
-    },
-    "10c6eb8d-9faa-c0a7-07e3-92c59e5a4b10": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainArmRight.001.scene.nasset/M_textileRed-2.mesh.nasset"
-    },
-    "262fe0da-173a-023d-c96d-1f9490aa08c0": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewHead.001.scene.nasset"
-    },
-    "e6a8d9c2-86c2-9200-c705-8804550cfd6d": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerLegLeft.001.scene.nasset"
-    },
-    "f4d686fe-7602-40d5-99c4-e8ba8ec10339": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail1.scene.nasset/SM_palmDetail1.scene.nasset"
-    },
-    "d66e5624-6182-869c-e019-5c8c43d70412": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Palm1.scene.nasset/M_Leaves-7.mesh.nasset"
-    },
-    "70b1988c-09dd-2fc2-e0d4-b73cac621de3": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainArmLeft.001.scene.nasset/M_textileRed.mesh.nasset"
-    },
-    "e9c49d8c-ec17-94c2-3439-865284535a1c": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_formationSandGrass1.scene.nasset/M_Leaves.mesh.nasset"
-    },
-    "0f69ed8d-a8c8-bc9c-3e69-59b59786cb66": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonFrontBarrel.003.mesh.nasset"
-    },
-    "ea232a3a-f995-4369-06a3-47d3abecc1ec": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerHat.001.scene.nasset/M_Iron-15.mesh.nasset"
-    },
-    "6e037a8b-14a3-8e36-9f88-33dfe9e63bb2": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_chestBody1.scene.nasset/SM_chestBody1.scene.nasset"
-    },
-    "894932d8-0e38-a4d9-c946-0d1f6459727d": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_lightSails.001.scene.nasset/M_Textile-5.mesh.nasset"
-    },
-    "1da5fdf8-cf75-6bd7-e80e-91aa263ecf30": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewHead.001.scene.nasset/M_Iron-18.mesh.nasset"
-    },
-    "84b8c4d6-70fe-9c30-1916-dbee994e7cbf": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Sword1.001.scene.nasset/SM_Sword1.001.scene.nasset"
-    },
-    "094891b1-a26e-8325-ed04-efb8954b2d10": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonRightBase.003.scene.nasset/SM_cannonRightBase.003.scene.nasset"
-    },
-    "7dd7d010-2dea-5f57-67ad-42d15c77052d": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_pirateOcean.mesh.nasset"
-    },
-    "6c9d90d4-2123-1c59-e0ea-4e35b9048ea9": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonMobileBase1.scene.nasset"
-    },
-    "1f822d07-0fef-194f-79fe-c0ca3b023c34": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonRightBarrel.003.mesh.nasset"
-    },
-    "676dba23-39e0-6890-faf8-fb3c126d65eb": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonRightBarrel.002.mesh.nasset"
-    },
-    "96e05a9a-a6cf-deae-d0cb-7793ef586764": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonFrontBase.003.scene.nasset/M_Wood-23.mesh.nasset"
-    },
-    "ce46b4e9-e461-d43d-3ab5-fa01fae5cd82": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Sword1.001.scene.nasset/M_Wood-24.mesh.nasset"
-    },
-    "c5d9efbe-3905-bb81-5421-bb6111771cff": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Shovel1.scene.nasset/SM_Shovel1.scene.nasset"
-    },
-    "4033264a-dda1-524b-f126-3b395c3364a9": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerArmLeft.001.scene.nasset"
-    },
-    "57656d0e-cffa-847e-87bd-f6b7096eddce": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainBody.001.scene.nasset/M_textileRed-3.mesh.nasset"
-    },
-    "7efa1f7d-5bf1-83af-2835-b662eb8d4b75": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewBody.001.scene.nasset/M_Textile-12.mesh.nasset"
-    },
-    "d4b4dd0b-391e-7c13-0af5-ca4278881256": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainArmRight.001.scene.nasset/M_Textile-2.mesh.nasset"
-    },
-    "706bdc87-f596-7ad6-bb77-ac3d1c243eda": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset"
-    },
-    "28009290-0eda-9b43-f1d9-075c18a51ca6": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_chestBody1.scene.nasset"
-    },
-    "195b541d-9a70-a857-4096-7e0cd55808c8": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Plant5.mesh.nasset"
-    },
-    "58ff1967-57e1-20e7-513d-98fc315f39b8": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonFrontBase.003.scene.nasset"
-    },
-    "8b870b1b-f54f-9503-159a-11cafb43c12f": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainLegLeft.001.scene.nasset/SM_captainLegLeft.001.scene.nasset"
-    },
-    "67157209-c28d-225c-9153-0e9655f13740": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipWreck1.scene.nasset/M_Iron-2.mesh.nasset"
-    },
-    "772525f2-13c1-5296-aa61-7c7c7111ef62": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonRightBase.003.scene.nasset/M_Wood-21.mesh.nasset"
-    },
-    "7bcb727e-b94e-0dae-2987-92ea290f68d9": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail_LG2.scene.nasset/SM_palmDetail_LG2.scene.nasset"
-    },
-    "cefccffa-5b3e-5025-bace-86dbabff0dd0": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonFrontBarrel1.001.mesh.nasset"
-    },
-    "851a8240-7a6a-3a4e-ae4d-1259ebad941f": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonMobileBase1.scene.nasset/M_Iron-3.mesh.nasset"
-    },
-    "119b8cc4-6ea0-7841-eff3-3e098dd14a1d": {
+    "16f3446e-d6c3-da30-c19a-6bc1079c1ab7": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Wood.mtli.nasset"
+        "path": "Assets/Source/Material Instances/Wood Darker.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "12cd84d7-d109-ee83-d559-ec924093f024": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "17431138-23f2-3294-e0c4-ce65ef62461a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Tower.mesh.nasset/Tower Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ca5aaf0e-ba83-da07-67ce-7b326e7c3995",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "19427f5d-4a3e-b3db-157b-cd1137891d83": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Tower.mesh.nasset/Tower Wood Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "16f3446e-d6c3-da30-c19a-6bc1079c1ab7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1984d27f-db6a-a5f3-0059-d3311bc5b388": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Palm Tree 3.mesh.nasset/Palm Tree 3 Coconut.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "72d6e549-9d91-622d-3bbb-4730953bc9b5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1b6ed964-5f15-a5df-c576-ed8e2eef8bdd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_darkSails.001.scene.nasset/SM_darkSails.001.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Rowboat.mesh.nasset/Rowboat.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "73c49b1f-1fcb-1b99-21aa-b65ee65b7ff0",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "e5555fcc-1097-0a3a-1bda-36f69f6b23bc": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "1b83abc8-3547-7810-f000-f55a100e2ecb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Corner Single.mesh.nasset/Docks Corner Single Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1ba6d552-de2b-f2a4-9ef6-98ddceaafd2b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Treasure 1.mesh.nasset/Treasure 1 Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1c7054b6-440a-8553-9dd5-ed89aac0d03b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Ship Light.mesh.nasset/Ship Light Wood Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "16f3446e-d6c3-da30-c19a-6bc1079c1ab7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1d1d6f00-4ad3-ea01-e517-818889d4193d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerLegLeft.001.scene.nasset/SM_officerLegLeft.001.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Palm Tree 3.mesh.nasset/Palm Tree 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4c91d071-fa81-3b76-6432-7088099fa87c",
+            "07441d47-7cd7-6538-39a1-d356d3600284",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "93efc863-d9d2-eeca-c777-9316c44f743b",
+            "6fe3e58e-94cb-8af4-e6b3-b13c325d8513",
+            "72d6e549-9d91-622d-3bbb-4730953bc9b5",
+            "1984d27f-db6a-a5f3-0059-d3311bc5b388"
+        ]
     },
-    "a88423a4-c600-5f86-d928-a2cdf6bb853c": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "1eacf418-49d2-2f00-5e5a-15e07d4d1e01": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Rock Mountain 1.mesh.nasset/Rock Mountain 1 Stone Wall.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "151f063a-1d06-8dbe-b4a2-a6a1d04ff6f1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1ee87bf8-8ea9-1ade-f5b4-ad48c53c6e4e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainHead.001.scene.nasset/SM_captainHead.001.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Treasure Chest.mesh.nasset/Treasure Chest.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "bd15e93a-048c-8132-cb35-53e0a057fc18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "ca5aaf0e-ba83-da07-67ce-7b326e7c3995",
+            "b2033176-dfdc-04a7-4491-3b949b306f32"
+        ]
     },
-    "cf2507c7-1a1e-f803-85c0-16be3d4a1951": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_groundHole1.scene.nasset/M_Sand-4.mesh.nasset"
-    },
-    "0486acfd-78a9-476c-ac32-151bd3397327": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Palm1.scene.nasset/M_Wood-13.mesh.nasset"
-    },
-    "423b5dbc-afc5-510b-386e-e0c4ac3196b8": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerHead.001.scene.nasset"
-    },
-    "f2e98290-4902-1785-e65b-a2f7283c450e": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_groundHole1.scene.nasset"
-    },
-    "32e3ff63-9fc2-78c9-0fd3-c63447f84a55": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail1.scene.nasset/M_Wood-3.mesh.nasset"
-    },
-    "e462b863-f5b4-6c1f-24ae-0753062a29fd": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "1f0c8be4-6120-d225-7258-40b2d594c26c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipWreck1.scene.nasset/SM_shipWreck1.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Plant.mesh.nasset/Plant.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "00e69be7-b4fa-e2f7-7f8c-b79bfd9247b9",
+            "407c5c1c-5841-c747-e147-14f1376e1bef",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "e86a1deb-f482-c1d8-96a2-648fefb5fe5e": {
+    "200bf88c-5edb-9db4-139e-4ca8c530a7d4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Bottle Large.mesh.nasset/Bottle Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "89fd1e12-c611-1324-00f1-3e5c79d77699",
+            "98aa7c01-fe02-069c-965f-d51dc250afbd",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "5a2273f1-8da6-3b93-3aa7-93c55842acd0"
+        ]
+    },
+    "22631789-7c82-97ef-b540-e9f0746030d0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Iron.mtli.nasset"
+        "path": "Assets/Source/Material Instances/Shell Faded.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "a2c057e1-f1c5-16fe-3ace-995029c66c0e": {
+    "2465173d-a7c0-7ad5-16c0-87aefa17c02f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Palm Tree 1.mesh.nasset/Palm Tree 1 Oak Leaves.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4c91d071-fa81-3b76-6432-7088099fa87c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "269ffc5e-7445-8b43-cd16-693da21a308c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 3.mesh.nasset/Starfishes 3 Shell Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bfe4b070-9949-83c9-5f7b-c0bc73e59cf3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "26fd4e9d-b6e8-4975-1f42-42029f702e60": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Palm Tree 1.mesh.nasset/Palm Tree 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "93efc863-d9d2-eeca-c777-9316c44f743b",
+            "9df86a2d-f94f-ad46-d0d4-b9fd3fe7d8d6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "72d6e549-9d91-622d-3bbb-4730953bc9b5",
+            "08372e0b-8726-c8ff-eed1-0a01d4c4396e",
+            "4c91d071-fa81-3b76-6432-7088099fa87c",
+            "2465173d-a7c0-7ad5-16c0-87aefa17c02f"
+        ]
+    },
+    "2d6e57f6-720d-862f-5415-984d440e6601": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Steps.mesh.nasset/Docks Steps Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2ea413e8-6ebb-b6ca-94a9-b17bf3dd9b1a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Corner.mesh.nasset/Docks Corner Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2ebdfe0c-f05c-f0e0-8f51-34feca204852": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Iron Grey.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "2eddfa8d-b44b-1623-fc57-004ac7e233f3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Treasure 1.mesh.nasset/Treasure 1 Iron Grey Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9e65ebdd-f2f7-9221-e06f-324212d84c0f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "329780b1-c8c2-e7f9-8ce8-01e428c8d5b6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 3.mesh.nasset/Starfishes 3 Shell Faded Lighter.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "cfffa55e-9780-b153-adc6-887299ab8b2a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3328b173-fdd0-93a9-6cb0-36cb74d207a7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 2.mesh.nasset/Starfishes 2 Shell Faded Lighter.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "cfffa55e-9780-b153-adc6-887299ab8b2a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "336818f1-2da0-41f5-b908-1ec3841ea51d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Ships Ahoy.scene.nasset"
+    },
+    "3629209e-9595-156f-5f19-7a1fbba455d5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Straight.mesh.nasset/Docks Straight Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "368ac2fc-fad2-cdcf-1c1f-f5ae5c4507f4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Large.mesh.nasset/Docks Large Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "37234534-9bff-d8c9-67cc-a9b631a3e43c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerBody.001.scene.nasset/SM_officerBody.001.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/SC_Ships_Ahoy.scene.nasset",
+        "dependencies": [
+            "a75b06c2-2d2e-57a1-cf89-e0d6a1b40c28",
+            "c22e40d4-ba7a-801e-1c05-a38ae163eb67",
+            "0615b466-bb73-20c8-a6b2-c343e452186f",
+            "4404c68a-c2f7-804c-68e1-5bdb81767e6d",
+            "03208b06-5ffd-0cca-1548-ac343d4f3810",
+            "c6ef93e5-5e62-31a1-7f35-26aa3a8afc33",
+            "fc5d4c9e-2a11-1780-52be-10f6b96a1f51",
+            "a367ed95-641d-3311-b82f-b25081acce56",
+            "428162f8-b670-5a16-c8d1-f550915a09f1",
+            "b71b0b71-cac4-c711-9584-cb908138a84f",
+            "f1ef9153-31fb-b928-2906-fcb52fa68775",
+            "26fd4e9d-b6e8-4975-1f42-42029f702e60",
+            "507becf0-33f9-ec2f-42d5-18eba0b133a3",
+            "1d1d6f00-4ad3-ea01-e517-818889d4193d",
+            "fa8bee54-df98-e9b8-2bfe-0809a47815b9",
+            "14723a8a-46cd-0528-c70c-d6817212ea75",
+            "51dc82e0-f218-9855-cb80-d451d5002f8d",
+            "096b0a1d-e925-1d4a-eefb-25584b81bc38",
+            "83c09d91-e810-00d6-17be-531f9e54ee62",
+            "870a115d-b38d-5419-85a9-1ef3abbf8fe0",
+            "b3dec7e8-3c88-8c0d-7e9f-8ef0be0f1de9",
+            "3b813b8c-badb-1830-fd9c-65b7aaab825e",
+            "58407481-f7c6-d919-cca6-7e97c06c0906",
+            "cc11a835-5a95-1671-b085-8d2e3c9fb399",
+            "fe5e03ba-17b5-f1e3-1eee-235cb412ee4b",
+            "92da6a0b-6757-017b-77d7-b11f066a5524",
+            "480c594c-10a7-aef3-39e1-19afc3d39369",
+            "4ef11495-7563-f0a4-f525-377d56118b6d",
+            "200bf88c-5edb-9db4-139e-4ca8c530a7d4",
+            "cfa848e9-f69d-0497-4dce-9538bc661b04",
+            "f8613a3e-e1e6-f454-7afe-9f71efe05fb2",
+            "f9ead376-ca40-0612-da77-86797b48049d",
+            "f55f459a-3243-7d00-e21b-0b7f253dc4d8",
+            "1f0c8be4-6120-d225-7258-40b2d594c26c",
+            "9e9571d3-c0a3-01f9-2a89-5e53f13b5532",
+            "1b6ed964-5f15-a5df-c576-ed8e2eef8bdd",
+            "f4f84f90-2ebb-a3fe-ff83-ab361cb175b2",
+            "0096d1e2-1383-fea4-019f-5893d22973d5",
+            "a3552cad-6668-819b-af20-8825d002bd40",
+            "f860d6ef-7ac0-7c5c-a812-21e8c9d53747",
+            "8d49caaa-a964-150a-d8e7-dc65bc1b07c2",
+            "cce8563a-70c2-6aec-a8b7-27590bd59292",
+            "1ee87bf8-8ea9-1ade-f5b4-ad48c53c6e4e"
+        ]
     },
-    "212abb08-dac5-94ed-85e3-f93c13a79b59": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainBody.001.scene.nasset/M_Wood-34.mesh.nasset"
+    "3b813b8c-badb-1830-fd9c-65b7aaab825e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfish 1.mesh.nasset/Starfish 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b7de2bb2-ce43-378e-c308-c6015f9324ac",
+            "5068af1d-f258-a830-1dc3-7e6330059670",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "a5ee60f8-5680-4611-22e2-ee067c57709c": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainHead.001.scene.nasset"
+    "3c160e60-8bad-8d3d-c099-7ec10a5ab567": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Palm Tree 2.mesh.nasset/Palm Tree 2 Coconut.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "72d6e549-9d91-622d-3bbb-4730953bc9b5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "b8b48e58-34f1-8ebd-d401-b2c89ca501c6": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Tower1.scene.nasset/M_Default.mesh.nasset"
+    "3c777b76-057f-8005-aea0-613c57435b46": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 1.mesh.nasset/Starfishes 1 Shell Faded Lighter.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "cfffa55e-9780-b153-adc6-887299ab8b2a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "8d2f9b0b-abcd-4e96-e501-873e2022505a": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipLight1.scene.nasset/M_woodDark-3.mesh.nasset"
+    "3d250833-b651-5fc5-f2bc-25d7654b57af": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Tower.mesh.nasset/Tower Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "54228553-dfdc-ab01-673c-44dafa490362",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "20c951a5-7dd5-4a18-93cd-1b67018b4d7a": {
+    "3fef7148-c786-31da-6b7b-d4f78099ae94": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Sand Dark.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "403e9079-6943-d834-64a3-4f1c9a345486": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 1.mesh.nasset/Starfishes 1 Shell Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "119f6411-e9e2-bfef-6300-67b8051f00ef",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "407c5c1c-5841-c747-e147-14f1376e1bef": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Plant.mesh.nasset/Plant Leaves.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "00e69be7-b4fa-e2f7-7f8c-b79bfd9247b9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "428162f8-b670-5a16-c8d1-f550915a09f1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Large.mesh.nasset/Docks Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "368ac2fc-fad2-cdcf-1c1f-f5ae5c4507f4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "5fdeb30f-0601-badb-9159-b59e85a31669"
+        ]
+    },
+    "4301f29b-debb-19aa-c15c-a17613bf6b69": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Island Round.mesh.nasset/Island Round Sand.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "645c5a64-9d51-e252-4d1c-00ef8a264d19",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "43386392-9943-4b61-85f4-06d43cbc3a87": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 1.mesh.nasset/Starfishes 1 Starfish.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b7de2bb2-ce43-378e-c308-c6015f9324ac",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4404c68a-c2f7-804c-68e1-5bdb81767e6d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Corner Single.mesh.nasset/Docks Corner Single.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "46543bc8-7716-1e34-dd82-41717fe97406",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "1b83abc8-3547-7810-f000-f55a100e2ecb"
+        ]
+    },
+    "46543bc8-7716-1e34-dd82-41717fe97406": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Corner Single.mesh.nasset/Docks Corner Single Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4784d4ef-053e-0b93-f181-f4ce7cf7853e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Cannon 1.mesh.nasset/Cannon 1 Iron.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6965051-9fc0-20db-80be-6f0b4fa89d7e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "480c594c-10a7-aef3-39e1-19afc3d39369": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Treasure 1.mesh.nasset/Treasure 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "1ba6d552-de2b-f2a4-9ef6-98ddceaafd2b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "aa5df9bd-7766-daee-ae54-6a28a4dc1636",
+            "0254c53b-c9df-fb1d-141a-62f7a31c1147",
+            "2ebdfe0c-f05c-f0e0-8f51-34feca204852",
+            "72be636c-cf4b-4f49-e111-1caa962fcf5b",
+            "9e65ebdd-f2f7-9221-e06f-324212d84c0f",
+            "2eddfa8d-b44b-1623-fc57-004ac7e233f3"
+        ]
+    },
+    "48d73e93-e7d5-33f9-4086-1fb97c45fad0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Shipwreck.mesh.nasset/Shipwreck Wood Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "16f3446e-d6c3-da30-c19a-6bc1079c1ab7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4c91d071-fa81-3b76-6432-7088099fa87c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Oak Leaves.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "4ef11495-7563-f0a4-f525-377d56118b6d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Bottle.mesh.nasset/Bottle.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "00e69be7-b4fa-e2f7-7f8c-b79bfd9247b9",
+            "5462e9f9-01a0-a186-5cb2-211e87e3b0df",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "c4794b40-5db2-b591-dae9-44c38070ffdb",
+            "89fd1e12-c611-1324-00f1-3e5c79d77699",
+            "c8567e8c-885b-6a67-2dd9-00bc3a89513b"
+        ]
+    },
+    "501109d4-c467-cb17-2631-56e80b8e5318": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Small.mesh.nasset/Docks Small Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5017d017-be7a-6c27-e03a-09206d84d971": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Shell 2.mesh.nasset/Shell 2 Shell Faded.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "22631789-7c82-97ef-b540-e9f0746030d0",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5068af1d-f258-a830-1dc3-7e6330059670": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfish 1.mesh.nasset/Starfish 1 Starfish.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b7de2bb2-ce43-378e-c308-c6015f9324ac",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "507becf0-33f9-ec2f-42d5-18eba0b133a3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Palm Tree 2.mesh.nasset/Palm Tree 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "93efc863-d9d2-eeca-c777-9316c44f743b",
+            "d869fe36-743a-ad75-7592-b24b7cd8ea04",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "4c91d071-fa81-3b76-6432-7088099fa87c",
+            "ef7cf9ea-e2e6-3b33-13de-90869bc3c5c6",
+            "72d6e549-9d91-622d-3bbb-4730953bc9b5",
+            "3c160e60-8bad-8d3d-c099-7ec10a5ab567"
+        ]
+    },
+    "50cbf2a1-5e95-8b64-b28a-874154f3cf80": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Tower.mesh.nasset/Tower Textile.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "89fd1e12-c611-1324-00f1-3e5c79d77699",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "51d9437d-d8a9-c836-16de-9e2a07830bc0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 1.mesh.nasset/Starfishes 1 Shell.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a5897f5c-b58c-d540-9ec2-1748f062e298",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "51dc82e0-f218-9855-cb80-d451d5002f8d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Island 3.mesh.nasset/Island 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "645c5a64-9d51-e252-4d1c-00ef8a264d19",
+            "586c6363-6a02-5fd4-3d45-6edb8a3690a8",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "52b39ad7-bb15-3f6e-f74c-c46b28f1bc87": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Thumbnail/Ships_Ahoy_Thumb.tex.nasset"
     },
-    "9fa7f978-f2b5-d99b-7ccd-d4faff28f3bd": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainHead.001.scene.nasset/M_Sand-9.mesh.nasset"
+    "53463f12-991f-5f30-785d-cebdfef1ebb3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Shovel.mesh.nasset/Shovel Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ca5aaf0e-ba83-da07-67ce-7b326e7c3995",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "9e0d09fe-6df0-9682-481f-b790b4a5a1db": {
+    "54228553-dfdc-ab01-673c-44dafa490362": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Leaves.mtli.nasset"
+        "path": "Assets/Source/Material Instances/Default.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "cb35c222-4502-fb8f-8eae-141399b9badd": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail1.scene.nasset/M_Leaves-2.mesh.nasset"
+    "5462e9f9-01a0-a186-5cb2-211e87e3b0df": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Bottle.mesh.nasset/Bottle Leaves.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "00e69be7-b4fa-e2f7-7f8c-b79bfd9247b9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "b47327ea-b592-7f55-940f-43050e914495": {
+    "5468c7b5-377e-50a9-5416-82fc7acab326": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Steps.mesh.nasset/Docks Steps Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5510129b-a8af-5956-d27d-1d27fe81c045": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Island 1.mesh.nasset/Island 1 Sand.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "645c5a64-9d51-e252-4d1c-00ef8a264d19",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "571a8621-c0f6-3109-fce7-27af819f4cce": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Corner.mesh.nasset/Docks Corner Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "58407481-f7c6-d919-cca6-7e97c06c0906": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/Ships_Scene.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 1.mesh.nasset/Starfishes 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b7de2bb2-ce43-378e-c308-c6015f9324ac",
+            "43386392-9943-4b61-85f4-06d43cbc3a87",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "a5897f5c-b58c-d540-9ec2-1748f062e298",
+            "51d9437d-d8a9-c836-16de-9e2a07830bc0",
+            "119f6411-e9e2-bfef-6300-67b8051f00ef",
+            "403e9079-6943-d834-64a3-4f1c9a345486",
+            "bfe4b070-9949-83c9-5f7b-c0bc73e59cf3",
+            "c485e9c9-500c-b8de-9583-01c4e50f6144",
+            "22631789-7c82-97ef-b540-e9f0746030d0",
+            "c6775cc0-16af-3596-4559-1e2316c96215",
+            "cfffa55e-9780-b153-adc6-887299ab8b2a",
+            "3c777b76-057f-8005-aea0-613c57435b46"
+        ]
     },
-    "a3d59ead-3731-a465-c627-c8c63d5410e7": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail3.scene.nasset"
+    "586c6363-6a02-5fd4-3d45-6edb8a3690a8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Island 3.mesh.nasset/Island 3 Sand.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "645c5a64-9d51-e252-4d1c-00ef8a264d19",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "f2c50473-acbf-2f34-20ba-2aba2af513db": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerHat.001.scene.nasset/SM_officerHat.001.scene.nasset"
+    "5a2273f1-8da6-3b93-3aa7-93c55842acd0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Bottle Large.mesh.nasset/Bottle Large Wood 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "439b5e98-84b0-a608-6c9b-777720418564": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerArmLeft.001.scene.nasset/M_textileBlue.mesh.nasset"
+    "5b04befd-fa28-7249-eec9-e40d9ae3a386": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Shovel.mesh.nasset/Shovel Wood 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "1e23483c-0884-f83d-0991-966afc2f0bb3": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonLeftBase.002.scene.nasset/SM_cannonLeftBase.002.scene.nasset"
+    "5fdeb30f-0601-badb-9159-b59e85a31669": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Large.mesh.nasset/Docks Large Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "d81cce83-f4fb-336d-32db-f68a28b1c3ab": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail_LG1.scene.nasset/M_Leaves-3.mesh.nasset"
+    "6186f4e8-eacf-979f-8119-2eec380644a9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Cannon 1.mesh.nasset/Cannon 1 Wood 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "bd955388-03ad-aa06-06a8-f2954945448b": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerLegRight.001.scene.nasset/M_Wood-27.mesh.nasset"
+    "61965a3e-6ec0-2bce-e69f-9d1a994c6f32": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Island 4.mesh.nasset/Island 4 Sand.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "645c5a64-9d51-e252-4d1c-00ef8a264d19",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "983cc063-61b9-e94f-529d-f7ec59810382": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_swordScimitar1.scene.nasset"
-    },
-    "c2108a92-e407-09fb-1bfe-3334282d5d6f": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerArmLeft.001.scene.nasset/M_Sand-5.mesh.nasset"
-    },
-    "aad782a3-5fe8-4011-9e81-26ac071e31af": {
-        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Ships Ahoy.scene.nasset",
-        "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
-    },
-    "23b1fbc7-36d2-c85d-6789-bbaa68912145": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewHead.001.scene.nasset/M_Wood-29.mesh.nasset"
-    },
-    "9ef8adc7-5205-511f-84df-6b3b17170815": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Sword1.001.scene.nasset/M_Stone-5.mesh.nasset"
-    },
-    "92fd6f7b-7bc8-7305-8234-6498402aa7f4": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Bottle_LG1.scene.nasset/SM_Bottle_LG1.scene.nasset"
-    },
-    "888a54e9-0dcc-cde5-5424-a3be50e7e44a": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainArmLeft.001.scene.nasset/M_Textile-15.mesh.nasset"
-    },
-    "d8972609-dd87-21ca-8646-7674047b37c8": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipDark1.scene.nasset/M_Wood-19.mesh.nasset"
-    },
-    "51a36780-d9e4-cc61-c737-2fa4cbe329bb": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_formationRock1.scene.nasset/M_Wood-6.mesh.nasset"
-    },
-    "8d85d38c-b6f0-0496-6872-e89462e1331a": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_chestLid.001.scene.nasset"
-    },
-    "506cc548-b2d5-281b-43fd-172ac252924e": {
+    "645c5a64-9d51-e252-4d1c-00ef8a264d19": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_woodDark.mtli.nasset"
+        "path": "Assets/Source/Material Instances/Sand.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "9619e87f-0ed8-27fb-ea35-e078ace73a5e": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonRightBase.003.scene.nasset"
-    },
-    "29ff11a5-5231-3bbf-67d9-6b99cc0fa6cf": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Shovel1.scene.nasset/M_Wood-7.mesh.nasset"
-    },
-    "1c4cac44-bb01-3d10-c6b8-3358046dde1b": {
+    "651efce7-6c64-4cfc-90a3-740f0c86fb6b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Stone.mtli.nasset"
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/M_Ahoy_Skybox.mtli.nasset",
+        "thumbnail": "1e71738a-10e5-7160-578f-434ede5c7576"
     },
-    "b38fb6a0-03c8-1e63-6966-69baa300258c": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainArmLeft.001.scene.nasset/SM_captainArmLeft.001.scene.nasset"
+    "6cf7552c-e37a-cfe0-7f4e-2ca6cb7abd7d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 2.mesh.nasset/Starfishes 2 Shell Faded.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "22631789-7c82-97ef-b540-e9f0746030d0",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "8f451272-55ff-d1d8-a9b7-fdc9204507b2": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewLegLeft.001.scene.nasset/M_Wood-30.mesh.nasset"
+    "6d4520d8-8590-63fa-9d71-6781944134ca": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Ship Light.mesh.nasset/Ship Light Textile.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "89fd1e12-c611-1324-00f1-3e5c79d77699",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "9802a318-1e89-436f-14b5-e465924837f2": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerArmRight.001.scene.nasset"
+    "6d911e3d-6188-f335-ab77-271009c1b13a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Cliff 1.mesh.nasset/Cliff 1 Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d8d9575e-db57-a42f-694f-b091b0369cce",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "bb07a0e9-a720-e3a4-e437-6a57af747c6d": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonLeftBase.002.scene.nasset/M_Iron-6.mesh.nasset"
+    "6e2e2cfd-7cfb-dcda-80dd-e00949f29a43": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Shell 1.mesh.nasset/Shell 1 Shell Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bfe4b070-9949-83c9-5f7b-c0bc73e59cf3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "8b6eee4a-314b-3469-6505-b66ad3b81bf3": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonLeftBase.003.scene.nasset/M_Wood-22.mesh.nasset"
+    "6fe3e58e-94cb-8af4-e6b3-b13c325d8513": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Palm Tree 3.mesh.nasset/Palm Tree 3 Wood Palm.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "93efc863-d9d2-eeca-c777-9316c44f743b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "a308e238-b63a-e19c-f885-66813672de5f": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_formationRock1.scene.nasset/M_Sand-3.mesh.nasset"
+    "72be636c-cf4b-4f49-e111-1caa962fcf5b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Treasure 1.mesh.nasset/Treasure 1 Iron Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2ebdfe0c-f05c-f0e0-8f51-34feca204852",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "ced8e2a8-63cf-5297-a652-179501f8bcc7": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_SteeringWheel.002.mesh.nasset"
+    "72d6e549-9d91-622d-3bbb-4730953bc9b5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Coconut.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "90ee6893-30eb-f905-6fd3-98f293e05919": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_swordScimitar1.scene.nasset/SM_swordScimitar1.scene.nasset"
+    "73c49b1f-1fcb-1b99-21aa-b65ee65b7ff0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Rowboat.mesh.nasset/Rowboat Wood 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "b7e2d5e4-3ba5-ba9d-6deb-79f598ef90e5": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewBody.001.scene.nasset/SM_crewBody.001.scene.nasset"
+    "7aabea63-02a0-73bc-6d4d-2f637b5343d3": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Wood 2.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "1eff161e-3760-fb96-9626-ccb2a074e01f": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipDark1.scene.nasset/SM_shipDark1.scene.nasset"
-    },
-    "723a98d9-77cb-f04a-95f5-e2ceddcc3c57": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipWreck1.scene.nasset/M_Wood-10.mesh.nasset"
-    },
-    "a471ebb8-fef0-f9c0-1dbf-90b694bee2d2": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_swordScimitar1.scene.nasset/M_Textile-18.mesh.nasset"
-    },
-    "027bcfc4-1d5c-8e08-d71a-d0b81df876fc": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail3.scene.nasset/SM_palmDetail3.scene.nasset"
-    },
-    "5916f332-8f79-5199-92c4-92662a60d42c": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Boat_LG1.mesh.nasset"
-    },
-    "286f5d8a-b644-a57a-b334-ea50c4a8a15b": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_chestLid.001.scene.nasset/M_Wood-2.mesh.nasset"
-    },
-    "43f42ee5-b473-f62b-99e6-1d048533c63c": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonMobileBase1.scene.nasset/M_Wood-11.mesh.nasset"
-    },
-    "97a04fc7-c827-47fa-b540-ee5f4c86388b": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Shovel1.scene.nasset"
-    },
-    "cd015d44-c25d-53d2-94de-6cb5a8cb605c": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewHead.001.scene.nasset/SM_crewHead.001.scene.nasset"
-    },
-    "d37beeef-4f47-bf12-1b9e-e0817dc30118": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipWreck1.scene.nasset"
-    },
-    "add2a4f7-4d58-4731-2b2f-3ae47fcb31f9": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonFrontBase.002.scene.nasset/M_Iron-5.mesh.nasset"
-    },
-    "ccc4bae9-fcaa-dece-322e-217535014b89": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Bottle_LG1.scene.nasset/M_Wood-9.mesh.nasset"
-    },
-    "53a8616e-2901-d680-09eb-bc3560d65db6": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainHat.001.mesh.nasset"
-    },
-    "dba9af12-b117-5cf4-8c02-7a47cc60d239": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewBody.001.scene.nasset"
-    },
-    "1212c644-30fb-8fc1-93a6-91c7e01cd95e": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonLeftBarrel.003.mesh.nasset"
-    },
-    "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
+    "7ba3be32-1a46-6ff8-5523-8cc9d7b96337": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/SaschaRef/Irradiance.tex.nasset"
+        "path": "Assets/Cubemaps/Ships_Ahoy_Enviro.tex.nasset"
     },
-    "44bd513f-0526-0f2e-668b-7169d529d5c1": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "7c0caf43-1849-ad65-26fa-5d56ee07bf45": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Shell 2.mesh.nasset/Shell 2 Shell Faded Lighter.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "cfffa55e-9780-b153-adc6-887299ab8b2a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7dcc7e1c-2de2-6e8e-8d6d-216d74995667": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Ship Light.mesh.nasset/Ship Light Wood 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7f3c903a-28e4-3a10-4202-4403d654f95e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Shipwreck.mesh.nasset/Shipwreck Iron.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6965051-9fc0-20db-80be-6f0b4fa89d7e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "809ac05a-62c3-8222-1831-f28ad6e20cc4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Rock Mountain 1.mesh.nasset/Rock Mountain 1 Sand.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "645c5a64-9d51-e252-4d1c-00ef8a264d19",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "83c09d91-e810-00d6-17be-531f9e54ee62": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonMobileBase1.scene.nasset/SM_cannonMobileBase1.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Island 4.mesh.nasset/Island 4.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "645c5a64-9d51-e252-4d1c-00ef8a264d19",
+            "61965a3e-6ec0-2bce-e69f-9d1a994c6f32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "b22e9fae-37b4-1df9-2ea0-d86f002ce9cf": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "870a115d-b38d-5419-85a9-1ef3abbf8fe0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonFrontBase.002.scene.nasset/SM_cannonFrontBase.002.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Shell 1.mesh.nasset/Shell 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "a5897f5c-b58c-d540-9ec2-1748f062e298",
+            "0ab550d2-aaad-8161-2287-c2ae99376916",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "119f6411-e9e2-bfef-6300-67b8051f00ef",
+            "a2277a90-65d8-b3f1-7902-116bd82dbcba",
+            "bfe4b070-9949-83c9-5f7b-c0bc73e59cf3",
+            "6e2e2cfd-7cfb-dcda-80dd-e00949f29a43"
+        ]
     },
-    "063e2b68-13db-620d-e7fb-c2ee823f5a1a": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainLegRight.001.scene.nasset/M_Wood-37.mesh.nasset"
-    },
-    "28cddb4b-a62b-f181-12c9-899c750ede29": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonRightBase.002.scene.nasset/M_Iron-7.mesh.nasset"
-    },
-    "3088bbda-29f4-258c-8a7b-b881b47dc132": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_chestLid.001.scene.nasset/SM_chestLid.001.scene.nasset"
-    },
-    "e69cc423-0bcc-199b-8ee1-6e7525968af8": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainBody.001.scene.nasset/SM_captainBody.001.scene.nasset"
-    },
-    "b2be8ef2-2294-4e65-45d4-2b8efda16901": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Palm_LG1.scene.nasset"
-    },
-    "cb9a7fed-51de-0149-be76-4f93a4a3a593": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Tower1.scene.nasset/M_woodDark.mesh.nasset"
-    },
-    "6ae9839e-69c4-cd01-e6cf-00f9ff3c6a26": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerLegRight.001.scene.nasset"
-    },
-    "d50152b0-afe0-ed48-a79b-7b48c8008979": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerBody.001.scene.nasset/M_textileBlue-3.mesh.nasset"
-    },
-    "300fee65-5c45-6f96-e1c9-7a4e5eee0caf": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_lightSails.001.scene.nasset/M_Wood-18.mesh.nasset"
-    },
-    "ad05b207-ab03-c298-4dd9-1a3e26a51901": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipWreck1.scene.nasset/M_Leaves-5.mesh.nasset"
-    },
-    "15946dc7-bcee-e370-f415-a022290ebe0b": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Tower1.scene.nasset"
-    },
-    "58866c17-9bf0-39f6-fc1c-9db8c2e3474c": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail2.scene.nasset/SM_palmDetail2.scene.nasset"
-    },
-    "de933a3c-78c1-7214-bf2b-e346c2e47905": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_groundHole1.scene.nasset/SM_groundHole1.scene.nasset"
-    },
-    "b80116a9-903e-c868-9fa8-39c04a778889": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonLeftBase.002.scene.nasset/M_Wood-16.mesh.nasset"
-    },
-    "22a00627-d583-1a24-76fe-857befc45301": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_formationRock1.scene.nasset"
-    },
-    "a517cf5e-8386-ff87-70b2-dd3d3cc98ecf": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainArmRight.001.scene.nasset/SM_captainArmRight.001.scene.nasset"
-    },
-    "13e277a3-29de-12ae-0803-4d0311e10923": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Bottle_LG1.scene.nasset/M_Textile-3.mesh.nasset"
-    },
-    "bf37bf4a-b061-cb60-bb71-b0ecad1b8e07": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_swordScimitar1.scene.nasset/M_Wood-38.mesh.nasset"
-    },
-    "f9397380-cd49-03a1-e415-abb81dc8089e": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainArmRight.001.scene.nasset"
-    },
-    "b06c9af7-9535-2056-fb1b-b81e3818505e": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipDark1.scene.nasset"
-    },
-    "6632f01f-fb53-4df5-ceb8-17fa50293c08": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewHat.001.mesh.nasset"
-    },
-    "fa9c20cb-d8ea-c2bf-9c14-c40f9e592dde": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Tower1.scene.nasset/M_Stone-3.mesh.nasset"
-    },
-    "8cd785bd-453c-0927-19c6-4970ee2ba29c": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_swordScimitar1.scene.nasset/M_Stone-6.mesh.nasset"
-    },
-    "ee325981-0794-03fd-4422-2dd8e1f237bf": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerArmLeft.001.scene.nasset/M_Textile-6.mesh.nasset"
-    },
-    "de49955e-2a5f-305d-a78d-d42ef54f08f9": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainLegRight.001.scene.nasset"
-    },
-    "cca96e5d-95a8-2d6f-77de-94ea87177c9b": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerBody.001.scene.nasset/M_Wood-25.mesh.nasset"
-    },
-    "93291794-0b7e-c0c8-8d7b-5570e198984f": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainLegLeft.001.scene.nasset/M_Textile-16.mesh.nasset"
-    },
-    "bbfa93e1-c47d-1752-0a1a-baa13c9ad5ec": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_chestLid.001.scene.nasset/M_Stone-2.mesh.nasset"
-    },
-    "03686fe5-a3a6-2b99-191f-3ea2b3f5e625": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_darkSails.001.scene.nasset/M_Wood-20.mesh.nasset"
-    },
-    "680f32ef-24a0-796e-51f6-45bc79cd5cec": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainLegLeft.001.scene.nasset"
-    },
-    "38db8183-da3e-946a-3b71-f90a264f9f1a": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail_LG3.scene.nasset/SM_palmDetail_LG3.scene.nasset"
-    },
-    "157a0f9a-9eb5-1654-bc2a-fea413d76a4f": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerArmLeft.001.scene.nasset/SM_officerArmLeft.001.scene.nasset"
-    },
-    "fdacfb38-9a5c-92b9-66be-240b65c4eaa6": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerHead.001.scene.nasset/M_Iron-14.mesh.nasset"
-    },
-    "21b86fe1-c177-0e2f-c93f-c6963c89e56e": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerLegRight.001.scene.nasset/SM_officerLegRight.001.scene.nasset"
-    },
-    "102b31ff-2b88-019d-b9c7-ce21a6cd4bac": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonLeftBase.003.scene.nasset/SM_cannonLeftBase.003.scene.nasset"
-    },
-    "66ad7cd2-4a51-1920-65cd-65da085bab6f": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewLegRight.001.scene.nasset/SM_crewLegRight.001.scene.nasset"
-    },
-    "9d7483c6-f85f-8e0f-c081-a9d6f39ee0ec": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Sword1.001.scene.nasset/M_Default-2.mesh.nasset"
-    },
-    "c79654a0-598a-6900-9902-879ac45db16b": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewLegLeft.001.scene.nasset"
-    },
-    "2e038ab2-698c-a52f-ffe5-cbc5560c3e43": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewArmLeft.001.mesh.nasset"
-    },
-    "9869816f-5224-ea57-4ed0-63bc59ba9b34": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerLegLeft.001.scene.nasset/M_Iron-16.mesh.nasset"
-    },
-    "c78a66b5-d1fd-b4c8-3d69-79aa0777a7ea": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_formationStone3.mesh.nasset"
-    },
-    "d798aad0-6485-02fd-0eec-1f9af8296b53": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Palm_LG1.scene.nasset/M_Leaves-6.mesh.nasset"
-    },
-    "f0b7db99-58d0-e1dc-ffde-24e493ecd5bc": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerArmRight.001.scene.nasset/SM_officerArmRight.001.scene.nasset"
-    },
-    "547a2a10-338f-0e0d-07c6-90f75e019f0d": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail_LG2.scene.nasset"
-    },
-    "1a0d56d6-3690-0e6a-c5db-db6ef735c193": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipLight1.scene.nasset/M_Textile-4.mesh.nasset"
-    },
-    "699684be-374e-41fc-b502-bdbedbcb302d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
-    },
-    "8ec39142-94be-517e-a6e5-9e7edc8a688a": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewBody.001.scene.nasset/M_Wood-28.mesh.nasset"
-    },
-    "4101db1c-0c4a-60c3-6b5e-c6499690f428": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonLeftBase.002.scene.nasset"
-    },
-    "443d08ba-cae6-5e30-5bdb-768d7b81d4a2": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Paddle1.mesh.nasset"
-    },
-    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.nasset"
-    },
-    "3844a38f-439c-4c72-cc0a-1aa36d212b26": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonMobileBarrel.001.mesh.nasset"
-    },
-    "961e7900-cf79-de22-2dea-6e7a272cd243": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Palm1.scene.nasset"
-    },
-    "b66eb103-8bfb-d7ca-bfc5-7bd96ee11f3f": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_formationSandGrass1.scene.nasset"
-    },
-    "9b9ab25f-431f-3154-b259-35bfbd9a1d80": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail1.scene.nasset"
-    },
-    "188e06af-966c-0e01-cb44-d3bb7ff3562e": {
+    "87673a0f-d2a4-75a3-625b-26797941c7c6": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Sand.mtli.nasset"
+        "path": "Assets/Source/Material Instances/Wood Light.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "39417332-3ce1-a63f-9fa6-2660de8ccedc": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_groundHole1.scene.nasset/M_Iron-13.mesh.nasset"
+    "89fd1e12-c611-1324-00f1-3e5c79d77699": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Textile.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "d7f5bc44-69df-90a3-68d5-6d03413848df": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_darkSails.001.scene.nasset/M_Iron-9.mesh.nasset"
+    "8a3418c5-5722-5f02-61cd-c732b0ecc2ff": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Straight.mesh.nasset/Docks Straight Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "c4857862-4048-ac21-2799-c02a514f1751": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewLegRight.001.scene.nasset/M_Wood-31.mesh.nasset"
+    "8bbd5251-0426-bfd0-8441-e76b67376400": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Tower.mesh.nasset/Tower Sand Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3fef7148-c786-31da-6b7b-d4f78099ae94",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "1872613c-048d-bcaf-93ad-c10545155e79": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewBody.001.scene.nasset/M_Sand-8.mesh.nasset"
-    },
-    "9ef395a9-1f29-dd57-48fc-8661c395a88b": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Bottle1.scene.nasset/M_Leaves-4.mesh.nasset"
-    },
-    "8acdc0e3-d44d-5ebd-606a-a94e6c2da6a8": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainArmRight.001.scene.nasset/M_Wood-33.mesh.nasset"
-    },
-    "4c89d2a7-d1b4-3f11-3565-b2fa32fa2704": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Tower1.scene.nasset/M_Iron.mesh.nasset"
-    },
-    "358fa8f8-f1a0-26a3-fd24-fd99332358a9": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Bottle_LG1.scene.nasset"
-    },
-    "1a659f10-4870-1969-4002-26fde6dea83a": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Tower1.scene.nasset/M_Textile.mesh.nasset"
-    },
-    "21074fa2-49d6-b3aa-6dc4-2313686c6f79": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "8d49caaa-a964-150a-d8e7-dc65bc1b07c2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipLight1.scene.nasset/SM_shipLight1.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Sword.mesh.nasset/Sword.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "ca5aaf0e-ba83-da07-67ce-7b326e7c3995",
+            "dafe70f5-2cc1-31d2-7ca4-c1a3def0798f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "89fd1e12-c611-1324-00f1-3e5c79d77699",
+            "df3b86b5-d15e-9310-1635-d7dd83448699",
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "8f621657-9108-e5c7-bd7d-af6793fd9d98",
+            "54228553-dfdc-ab01-673c-44dafa490362",
+            "d02eb7e9-6548-30ec-eed1-9cfddfdbe159"
+        ]
     },
-    "dacde5f7-6300-d808-25b9-6e4d3138695f": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Bottle1.scene.nasset"
+    "8f621657-9108-e5c7-bd7d-af6793fd9d98": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Sword.mesh.nasset/Sword Wood 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "bcf398a3-6e0d-6571-e341-ab251424be6d": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainHead.001.scene.nasset/M_Wood-35.mesh.nasset"
-    },
-    "d9b26c30-c4ac-219d-c14f-ce5f6350843a": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "92da6a0b-6757-017b-77d7-b11f066a5524": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_formationRock1.scene.nasset/SM_formationRock1.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 2.mesh.nasset/Starfishes 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b7de2bb2-ce43-378e-c308-c6015f9324ac",
+            "be1a4ac2-0d6a-d49b-b444-927be48542d3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "22631789-7c82-97ef-b540-e9f0746030d0",
+            "6cf7552c-e37a-cfe0-7f4e-2ca6cb7abd7d",
+            "cfffa55e-9780-b153-adc6-887299ab8b2a",
+            "3328b173-fdd0-93a9-6cb0-36cb74d207a7"
+        ]
     },
-    "2d3a81ef-7483-8a37-f38d-33f54aa7dc22": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_chestBody1.scene.nasset/M_Wood.mesh.nasset"
+    "93efc863-d9d2-eeca-c777-9316c44f743b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Wood Palm.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "119af3bf-ed10-747b-e461-77a5e0a72ae3": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonLeftBase.003.scene.nasset/M_Iron-11.mesh.nasset"
+    "97d1a7cb-6db4-080b-cae5-b49fcdac12d1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Water.mesh.nasset/Water Ocean.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "aeefe475-c52a-c5fb-d590-f38aa73d70af",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "3f7a4e69-0688-46c1-f450-80a75e449fe2": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewLegRight.001.scene.nasset/M_Textile-14.mesh.nasset"
+    "98aa7c01-fe02-069c-965f-d51dc250afbd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Bottle Large.mesh.nasset/Bottle Large Textile.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "89fd1e12-c611-1324-00f1-3e5c79d77699",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "f5180565-9fd6-4444-ad19-67d450800b6c": {
+    "9999e8c8-548f-5af0-7e54-d196f137bf51": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Shipwreck.mesh.nasset/Shipwreck Leaves.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "00e69be7-b4fa-e2f7-7f8c-b79bfd9247b9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9df86a2d-f94f-ad46-d0d4-b9fd3fe7d8d6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Palm Tree 1.mesh.nasset/Palm Tree 1 Wood Palm.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "93efc863-d9d2-eeca-c777-9316c44f743b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9e65ebdd-f2f7-9221-e06f-324212d84c0f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Iron Grey Light.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "9e9571d3-c0a3-01f9-2a89-5e53f13b5532": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Rock Mountain 1.mesh.nasset/Rock Mountain 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "151f063a-1d06-8dbe-b4a2-a6a1d04ff6f1",
+            "1eacf418-49d2-2f00-5e5a-15e07d4d1e01",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "645c5a64-9d51-e252-4d1c-00ef8a264d19",
+            "809ac05a-62c3-8222-1831-f28ad6e20cc4"
+        ]
+    },
+    "a06fd742-d08e-473a-b3c2-ec162374fd20": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
-        "path": "Ships_Ahoy.nproject",
-        "thumbnail": "20c951a5-7dd5-4a18-93cd-1b67018b4d7a"
+        "path": "Project.nproject",
+        "name": "Ships Ahoy",
+        "thumbnail": "52b39ad7-bb15-3f6e-f74c-c46b28f1bc87",
+        "tags": [
+            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
     },
-    "ca7398b6-a9ac-4a92-2c57-ecda8dd24ca5": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Tower1.scene.nasset/M_Sand-2.mesh.nasset"
+    "a0ea9091-83e5-0a71-ade5-2c5fafe192dd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Ships_Ahoy_EnviroSpecular.tex.nasset"
     },
-    "35c3cf6c-d25c-b4af-6b0e-e4f66ba0dfa0": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_formationStone_LG1.mesh.nasset"
+    "a15bf12b-b591-af4e-ea28-f7958e34c4e9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Ships_Ahoy_EnviroDiffuse.tex.nasset"
     },
-    "f3e77699-d744-9829-d9c7-f9460d6776cf": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewLegLeft.001.scene.nasset/M_Textile-13.mesh.nasset"
+    "a2277a90-65d8-b3f1-7902-116bd82dbcba": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Shell 1.mesh.nasset/Shell 1 Shell Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "119f6411-e9e2-bfef-6300-67b8051f00ef",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "a27294ab-0a9e-f0f7-0c63-05eab16cb930": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "a3552cad-6668-819b-af20-8825d002bd40": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_formationSandGrass1.scene.nasset/SM_formationSandGrass1.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Shipwreck.mesh.nasset/Shipwreck.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "06d4e22d-479b-8f2f-497d-2b68ab98068b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "00e69be7-b4fa-e2f7-7f8c-b79bfd9247b9",
+            "9999e8c8-548f-5af0-7e54-d196f137bf51",
+            "b6965051-9fc0-20db-80be-6f0b4fa89d7e",
+            "7f3c903a-28e4-3a10-4202-4403d654f95e",
+            "16f3446e-d6c3-da30-c19a-6bc1079c1ab7",
+            "48d73e93-e7d5-33f9-4086-1fb97c45fad0"
+        ]
     },
-    "ba39df94-78c9-7dba-ea5a-a06c3889c0d7": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "a367ed95-641d-3311-b82f-b25081acce56": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Bottle_LG2.scene.nasset/SM_Bottle_LG2.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Straight.mesh.nasset/Docks Straight.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "3629209e-9595-156f-5f19-7a1fbba455d5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "8a3418c5-5722-5f02-61cd-c732b0ecc2ff"
+        ]
     },
-    "905159dc-2efc-cef2-8324-752804d2b6a5": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonRightBase.003.scene.nasset/M_Iron-10.mesh.nasset"
-    },
-    "2a6df3a0-d28a-f294-1d54-1e48f3b7151e": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_darkSails.001.scene.nasset"
-    },
-    "fd396974-91e4-6838-2ce0-f0484b35185c": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_lightSails.001.scene.nasset"
-    },
-    "85b28567-8910-1faa-88df-cd972f422f91": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainLegRight.001.scene.nasset/SM_captainLegRight.001.scene.nasset"
-    },
-    "e5468c46-fb40-9d24-0c72-684e427aa8fc": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Tower1.scene.nasset/SM_Tower1.scene.nasset"
-    },
-    "a3392808-5463-8a15-fafd-e22b7c432a08": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_crewLegRight.001.scene.nasset"
-    },
-    "976e5071-2128-5279-a6f4-7b287fff778c": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerLegRight.001.scene.nasset/M_Iron-17.mesh.nasset"
-    },
-    "7de8ee99-1b38-7837-44c5-cf3d18cfbaaf": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_formationSandGrass1.scene.nasset/M_Sand.mesh.nasset"
-    },
-    "aa263944-1be6-29ee-65c2-503de9f6563c": {
+    "a5897f5c-b58c-d540-9ec2-1748f062e298": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Default.mtli.nasset"
+        "path": "Assets/Source/Material Instances/Shell.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "48d43d1b-9f02-50f9-b771-3918f95cfc3b": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerLegRight.001.scene.nasset/M_Textile-11.mesh.nasset"
-    },
-    "e3996502-da8b-8220-2fde-d14f976596d7": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerHat.001.scene.nasset"
-    },
-    "dfdd6265-cae9-0e16-8693-730e8dc74888": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonLeftBase.003.scene.nasset"
-    },
-    "e53608ac-12a6-710c-ae69-d92f3e1ad706": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonRightBase.002.scene.nasset/M_Wood-17.mesh.nasset"
-    },
-    "2f1383e6-4864-4a96-02d3-203233747557": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerHat.001.scene.nasset/M_Textile-10.mesh.nasset"
-    },
-    "b990bf80-9748-0b5c-dc05-c599c446fafe": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_palmDetail2.scene.nasset"
-    },
-    "3b12594d-e922-4f4b-1632-e2feacff90ad": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipDark1.scene.nasset/M_woodDark-4.mesh.nasset"
-    },
-    "272653ae-6d29-d472-a2f3-8ab67c5d7573": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "a75b06c2-2d2e-57a1-cf89-e0d6a1b40c28": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerHead.001.scene.nasset/SM_officerHead.001.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Water.mesh.nasset/Water.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "aeefe475-c52a-c5fb-d590-f38aa73d70af",
+            "97d1a7cb-6db4-080b-cae5-b49fcdac12d1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "76f68207-70db-86db-c4ad-1eec615998c7": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Bottle1.scene.nasset/M_Textile-2.mesh.nasset"
+    "a88ea1c5-ac78-f128-0025-ab2bab1712ac": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Corner Supports.mesh.nasset/Docks Corner Supports Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "b71018fd-7d2a-8491-a3e5-c82c6795b6fc": {
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Sword1.001.scene.nasset"
+    "a8c93b55-33cd-b385-3d31-6fef86f2d1de": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Tower.mesh.nasset/Tower Iron.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6965051-9fc0-20db-80be-6f0b4fa89d7e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "21df25a7-e3b1-5109-a967-861a668d26f7": {
+    "aa5df9bd-7766-daee-ae54-6a28a4dc1636": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Water.mtli.nasset"
+        "path": "Assets/Source/Material Instances/Iron Grey Dark.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "9d82dbe5-b367-bc01-44aa-b82942a0273e": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_shipWreck1.scene.nasset/M_woodDark-2.mesh.nasset"
+    "aeefe475-c52a-c5fb-d590-f38aa73d70af": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Ocean.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "960be4e6-e8c5-2da3-992e-fcc188ffbea4": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonFrontBase.002.scene.nasset/M_Wood-15.mesh.nasset"
+    "af21ce45-a8bb-6d21-df1b-1ac2ac298678": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Small.mesh.nasset/Docks Small Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "cc9b1129-3df7-9d91-e614-c541ad7a3fc5": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "b09e1071-dfdb-eefb-2a62-7bc96f92a46a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 3.mesh.nasset/Starfishes 3 Shell.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a5897f5c-b58c-d540-9ec2-1748f062e298",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b1b0f46d-a43d-5db1-062b-385fe65264d8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Ship Dark.mesh.nasset/Ship Dark Wood Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "16f3446e-d6c3-da30-c19a-6bc1079c1ab7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b2033176-dfdc-04a7-4491-3b949b306f32": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Treasure Chest.mesh.nasset/Treasure Chest Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ca5aaf0e-ba83-da07-67ce-7b326e7c3995",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b3121978-7daa-c74e-aeab-dc47e524877b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Stone Mountain.mesh.nasset/Stone Mountain Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ca5aaf0e-ba83-da07-67ce-7b326e7c3995",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b3ab2de0-fd4f-a3a1-3311-4f86f7879246": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Grass Ground.mesh.nasset/Grass Ground Sand.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "645c5a64-9d51-e252-4d1c-00ef8a264d19",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b3dec7e8-3c88-8c0d-7e9f-8ef0be0f1de9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonFrontBase.003.scene.nasset/SM_cannonFrontBase.003.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Shell 2.mesh.nasset/Shell 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "22631789-7c82-97ef-b540-e9f0746030d0",
+            "5017d017-be7a-6c27-e03a-09206d84d971",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "cfffa55e-9780-b153-adc6-887299ab8b2a",
+            "7c0caf43-1849-ad65-26fa-5d56ee07bf45"
+        ]
     },
-    "9b4718d0-d589-ca0f-e407-2e68d16f4c20": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "b6965051-9fc0-20db-80be-6f0b4fa89d7e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Iron.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "b71b0b71-cac4-c711-9584-cb908138a84f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_cannonRightBase.002.scene.nasset/SM_cannonRightBase.002.scene.nasset"
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Corner.mesh.nasset/Docks Corner.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "571a8621-c0f6-3109-fce7-27af819f4cce",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "2ea413e8-6ebb-b6ca-94a9-b17bf3dd9b1a"
+        ]
     },
-    "0ee20786-8951-f952-3f8a-0d8bdba849bc": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_officerArmRight.001.scene.nasset/M_textileBlue-2.mesh.nasset"
+    "b7de2bb2-ce43-378e-c308-c6015f9324ac": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Starfish.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "4d66acc2-6e00-5c81-b7a5-5afcbf705123": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_captainLegRight.001.scene.nasset/M_Textile-17.mesh.nasset"
+    "b8e323f7-56bb-c9f0-ed21-b4a374971cd4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Ship Dark.mesh.nasset/Ship Dark Iron.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6965051-9fc0-20db-80be-6f0b4fa89d7e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "6a4165b0-4472-59a1-7272-58c4760f5e22": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Ships_Scene.scene.nasset/SM_Tower1.scene.nasset/M_Wood-5.mesh.nasset"
-    }
+    "bd15e93a-048c-8132-cb35-53e0a057fc18": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Treasure Chest.mesh.nasset/Treasure Chest Wood 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bddf9260-025a-5033-1c86-9ca097250409": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Island 2.mesh.nasset/Island 2 Sand.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "645c5a64-9d51-e252-4d1c-00ef8a264d19",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "be1a4ac2-0d6a-d49b-b444-927be48542d3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 2.mesh.nasset/Starfishes 2 Starfish.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b7de2bb2-ce43-378e-c308-c6015f9324ac",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bfe4b070-9949-83c9-5f7b-c0bc73e59cf3": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Shell Light.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "c22e40d4-ba7a-801e-1c05-a38ae163eb67": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Cliff 1.mesh.nasset/Cliff 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "d8d9575e-db57-a42f-694f-b091b0369cce",
+            "6d911e3d-6188-f335-ab77-271009c1b13a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "ca5aaf0e-ba83-da07-67ce-7b326e7c3995",
+            "04735b2e-fa45-9a4f-e218-0bc3f1a68f1c"
+        ]
+    },
+    "c4794b40-5db2-b591-dae9-44c38070ffdb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Bottle.mesh.nasset/Bottle Wood 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c485e9c9-500c-b8de-9583-01c4e50f6144": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 1.mesh.nasset/Starfishes 1 Shell Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bfe4b070-9949-83c9-5f7b-c0bc73e59cf3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c6775cc0-16af-3596-4559-1e2316c96215": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 1.mesh.nasset/Starfishes 1 Shell Faded.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "22631789-7c82-97ef-b540-e9f0746030d0",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c6ef93e5-5e62-31a1-7f35-26aa3a8afc33": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Steps.mesh.nasset/Docks Steps.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "2d6e57f6-720d-862f-5415-984d440e6601",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "5468c7b5-377e-50a9-5416-82fc7acab326"
+        ]
+    },
+    "c8567e8c-885b-6a67-2dd9-00bc3a89513b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Bottle.mesh.nasset/Bottle Textile.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "89fd1e12-c611-1324-00f1-3e5c79d77699",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ca5aaf0e-ba83-da07-67ce-7b326e7c3995": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Stone.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "cc11a835-5a95-1671-b085-8d2e3c9fb399": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 3.mesh.nasset/Starfishes 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b7de2bb2-ce43-378e-c308-c6015f9324ac",
+            "d0fe4e22-554a-3e9d-514c-dfbde9b99d18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "a5897f5c-b58c-d540-9ec2-1748f062e298",
+            "b09e1071-dfdb-eefb-2a62-7bc96f92a46a",
+            "119f6411-e9e2-bfef-6300-67b8051f00ef",
+            "0dff027f-4964-63d5-602c-33dcf0896c04",
+            "bfe4b070-9949-83c9-5f7b-c0bc73e59cf3",
+            "269ffc5e-7445-8b43-cd16-693da21a308c",
+            "22631789-7c82-97ef-b540-e9f0746030d0",
+            "edb607ad-932c-db1b-4125-2d222e361bdb",
+            "cfffa55e-9780-b153-adc6-887299ab8b2a",
+            "329780b1-c8c2-e7f9-8ce8-01e428c8d5b6"
+        ]
+    },
+    "cce8563a-70c2-6aec-a8b7-27590bd59292": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Tower.mesh.nasset/Tower.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "ca5aaf0e-ba83-da07-67ce-7b326e7c3995",
+            "17431138-23f2-3294-e0c4-ce65ef62461a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "16f3446e-d6c3-da30-c19a-6bc1079c1ab7",
+            "19427f5d-4a3e-b3db-157b-cd1137891d83",
+            "54228553-dfdc-ab01-673c-44dafa490362",
+            "3d250833-b651-5fc5-f2bc-25d7654b57af",
+            "b6965051-9fc0-20db-80be-6f0b4fa89d7e",
+            "a8c93b55-33cd-b385-3d31-6fef86f2d1de",
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "f1b61345-074a-8ee7-ea34-033867541aff",
+            "3fef7148-c786-31da-6b7b-d4f78099ae94",
+            "8bbd5251-0426-bfd0-8441-e76b67376400",
+            "89fd1e12-c611-1324-00f1-3e5c79d77699",
+            "50cbf2a1-5e95-8b64-b28a-874154f3cf80"
+        ]
+    },
+    "ce6d54d0-a3e5-8061-204c-8cddb0cf0d6c": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "cfa848e9-f69d-0497-4dce-9538bc661b04": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Stone Mountain.mesh.nasset/Stone Mountain.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "ca5aaf0e-ba83-da07-67ce-7b326e7c3995",
+            "b3121978-7daa-c74e-aeab-dc47e524877b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cfffa55e-9780-b153-adc6-887299ab8b2a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Shell Faded Lighter.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "d02eb7e9-6548-30ec-eed1-9cfddfdbe159": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Sword.mesh.nasset/Sword Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "54228553-dfdc-ab01-673c-44dafa490362",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d0fe4e22-554a-3e9d-514c-dfbde9b99d18": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 3.mesh.nasset/Starfishes 3 Starfish.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b7de2bb2-ce43-378e-c308-c6015f9324ac",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d2e64bd1-b39c-73f1-aa28-e0bf4920ae7b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Corner Supports.mesh.nasset/Docks Corner Supports Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d3ebac97-0e69-6ced-ebb7-8d238a609695": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Wood Dark.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "d869fe36-743a-ad75-7592-b24b7cd8ea04": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Palm Tree 2.mesh.nasset/Palm Tree 2 Wood Palm.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "93efc863-d9d2-eeca-c777-9316c44f743b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d8d9575e-db57-a42f-694f-b091b0369cce": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Grass.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "dafe70f5-2cc1-31d2-7ca4-c1a3def0798f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Sword.mesh.nasset/Sword Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ca5aaf0e-ba83-da07-67ce-7b326e7c3995",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ddc766f9-3568-648d-b9b3-fddcc8e3aec6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Straight Supports.mesh.nasset/Docks Straight Supports Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "df3b86b5-d15e-9310-1635-d7dd83448699": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Sword.mesh.nasset/Sword Textile.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "89fd1e12-c611-1324-00f1-3e5c79d77699",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e8df8de4-8c33-c65a-e55b-f017b65a2cb1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Ground Hole.mesh.nasset/Ground Hole Sand Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3fef7148-c786-31da-6b7b-d4f78099ae94",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ea0f8ec4-e85d-ee4e-2849-bc8f174a1172": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Ship Light.mesh.nasset/Ship Light Iron.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6965051-9fc0-20db-80be-6f0b4fa89d7e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "edb607ad-932c-db1b-4125-2d222e361bdb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfishes 3.mesh.nasset/Starfishes 3 Shell Faded.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "22631789-7c82-97ef-b540-e9f0746030d0",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ee7125a0-5ef0-b828-6039-f00ed2c83b98": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Stone Mountain Tall.mesh.nasset/Stone Mountain Tall Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ca5aaf0e-ba83-da07-67ce-7b326e7c3995",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ef7cf9ea-e2e6-3b33-13de-90869bc3c5c6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Palm Tree 2.mesh.nasset/Palm Tree 2 Oak Leaves.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4c91d071-fa81-3b76-6432-7088099fa87c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f1b61345-074a-8ee7-ea34-033867541aff": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Tower.mesh.nasset/Tower Wood 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f1ef9153-31fb-b928-2906-fcb52fa68775": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Straight Supports.mesh.nasset/Docks Straight Supports.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "ddc766f9-3568-648d-b9b3-fddcc8e3aec6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "14b60e28-af6b-f6ed-5be8-5b3b3644311f"
+        ]
+    },
+    "f4f84f90-2ebb-a3fe-ff83-ab361cb175b2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Ship Dark.mesh.nasset/Ship Dark.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "0cac16bf-b15c-92e2-4141-f0c77e70acb6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "16f3446e-d6c3-da30-c19a-6bc1079c1ab7",
+            "b1b0f46d-a43d-5db1-062b-385fe65264d8",
+            "b6965051-9fc0-20db-80be-6f0b4fa89d7e",
+            "b8e323f7-56bb-c9f0-ed21-b4a374971cd4"
+        ]
+    },
+    "f55f459a-3243-7d00-e21b-0b7f253dc4d8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Ground Hole.mesh.nasset/Ground Hole.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "3fef7148-c786-31da-6b7b-d4f78099ae94",
+            "e8df8de4-8c33-c65a-e55b-f017b65a2cb1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "b6965051-9fc0-20db-80be-6f0b4fa89d7e",
+            "f97ad25f-c9f9-668b-8ea1-7c19535980f3"
+        ]
+    },
+    "f860d6ef-7ac0-7c5c-a812-21e8c9d53747": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Shovel.mesh.nasset/Shovel.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "7aabea63-02a0-73bc-6d4d-2f637b5343d3",
+            "5b04befd-fa28-7249-eec9-e40d9ae3a386",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "ca5aaf0e-ba83-da07-67ce-7b326e7c3995",
+            "53463f12-991f-5f30-785d-cebdfef1ebb3"
+        ]
+    },
+    "f8613a3e-e1e6-f454-7afe-9f71efe05fb2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Stone Mountain Tall.mesh.nasset/Stone Mountain Tall.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "ca5aaf0e-ba83-da07-67ce-7b326e7c3995",
+            "ee7125a0-5ef0-b828-6039-f00ed2c83b98",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f97ad25f-c9f9-668b-8ea1-7c19535980f3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Ground Hole.mesh.nasset/Ground Hole Iron.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6965051-9fc0-20db-80be-6f0b4fa89d7e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f9ead376-ca40-0612-da77-86797b48049d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Grass Ground.mesh.nasset/Grass Ground.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "645c5a64-9d51-e252-4d1c-00ef8a264d19",
+            "b3ab2de0-fd4f-a3a1-3311-4f86f7879246",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "00e69be7-b4fa-e2f7-7f8c-b79bfd9247b9",
+            "0e6c49bf-692f-03e2-8259-7fbc799c9b3c"
+        ]
+    },
+    "fa8bee54-df98-e9b8-2bfe-0809a47815b9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Island 1.mesh.nasset/Island 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "645c5a64-9d51-e252-4d1c-00ef8a264d19",
+            "5510129b-a8af-5956-d27d-1d27fe81c045",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fc5d4c9e-2a11-1780-52be-10f6b96a1f51": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Docks Small.mesh.nasset/Docks Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "d3ebac97-0e69-6ced-ebb7-8d238a609695",
+            "af21ce45-a8bb-6d21-df1b-1ac2ac298678",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "87673a0f-d2a4-75a3-625b-26797941c7c6",
+            "501109d4-c467-cb17-2631-56e80b8e5318"
+        ]
+    },
+    "fe5e03ba-17b5-f1e3-1eee-235cb412ee4b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ships_Ahoy.scene.nasset/Starfish 2.mesh.nasset/Starfish 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b7de2bb2-ce43-378e-c308-c6015f9324ac",
+            "066807b4-0eb3-cc04-c39a-4d8d97bd537d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "guid": "98deb965-9208-fadd-a22f-2e681a8cdcbd"
 }

@@ -1,6 +1,7 @@
 {
     "name": "Ships Ahoy",
-    "guid": "f5180565-9fd6-4444-ad19-67d450800b6c",
+    "guid": "a06fd742-d08e-473a-b3c2-ec162374fd20",
+	"database_guid": "ce6d54d0-a3e5-8061-204c-8cddb0cf0d6c",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -11,10 +12,10 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "20c951a5-7dd5-4a18-93cd-1b67018b4d7a",
-    "default_scene": "aad782a3-5fe8-4011-9e81-26ac071e31af",
-    "repository": "https://github.com/nginetechnologies/ngine-samples/tree/master/Ships_Ahoy.nproject",
-    "source": "Ships_Ahoy.nproject",
+    "thumbnail_guid": "52b39ad7-bb15-3f6e-f74c-c46b28f1bc87",
+    "default_scene": "336818f1-2da0-41f5-b908-1ec3841ea51d",
+    "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
+    "source": "Project.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
 			"type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
