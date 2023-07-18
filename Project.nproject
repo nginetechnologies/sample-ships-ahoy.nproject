@@ -1,7 +1,7 @@
 {
     "name": "Ships Ahoy",
     "guid": "b9447be1-1b78-411f-99fb-316184b31e01",
-	"database_guid": "98deb965-9208-fadd-a22f-2e681a8cdcbd",
+	"database_guid": "247cdf17-bc2e-5d09-84d6-86b0002376f7",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
